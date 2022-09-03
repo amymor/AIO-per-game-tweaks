@@ -1,6 +1,6 @@
 # AIO per game tweaks 🚀
 
-![AIO per game tweaks](https://imgur.com/TZTvmm0.png)
+![AIO per game tweaks](https://imgur.com/iVUsp2m.png)
 
 A simple tool to apply generic tweaks to your desired games.
 
