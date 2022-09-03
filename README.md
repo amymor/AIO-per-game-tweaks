@@ -1,6 +1,6 @@
 # AIO-per-game-settings
 
-a generic settings (tweaks) for games.
+A tool to apply generic tweaks to your desired games.
 
 
 # How to use:
