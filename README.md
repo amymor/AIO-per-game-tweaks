@@ -12,6 +12,6 @@ Method A)
 3. In the next window you can apply/undo settings.
 
 Method B)
-1. Drag the game executable and drop on `AIO per game tweaks.exe`
+1. Drag the game executable and drop on `AIO per game tweaks.exe`.
 2. A window will open and you can apply/undo settings in that window.
 
