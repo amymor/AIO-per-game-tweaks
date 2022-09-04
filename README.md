@@ -20,5 +20,5 @@ Method B:
 2. Whenever you want to undo the changes, select the game exe and choose default settings.
 
 ### Credits
-The `LargePageTest.exe` created by mbk1969.
+The `LargePageTest.exe` created by mbk1969:
 https://forums.guru3d.com/members/mbk1969.247876/
