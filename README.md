@@ -15,3 +15,7 @@ Method B:
 1. Drag the game executable and drop on `AIO per game tweaks.exe`.
 2. A window will open and you can apply/undo settings in that window.
 
+
+# Credits
+The `LargePageTest.exe` created by mbk1969.
+https://forums.guru3d.com/members/mbk1969.247876/
