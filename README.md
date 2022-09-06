@@ -19,6 +19,11 @@ Method B:
 1. All settings are applied to the registry, which means you can close it when you're done.
 2. Whenever you want to undo the changes, select the game exe and choose default settings.
 
+#Todo list:
+1. Add an option for restore all settings to defaults ( useful when you want uninstall game).
+2. Add an option for Power saving in Graphics settings (force an app to use integrated GPU)
+3. Create a full guide in English.
+
 ### Credits
 The `LargePageTest.exe` created by mbk1969:
 https://forums.guru3d.com/members/mbk1969.247876/
