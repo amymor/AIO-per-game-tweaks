@@ -1,6 +1,6 @@
 # AIO per game tweaks 🚀
 
-![AIO per game tweaks](https://imgur.com/iVUsp2m.png)
+![AIO per game tweaks](https://imgur.com/P6kb8RJ.png)
 
 A simple tool to apply generic tweaks to your desired games.
 
@@ -25,5 +25,5 @@ Method B:
 3. Create a full guide in English.
 
 ### Credits
-The `LargePageTest.exe` created by mbk1969:
+The `LargePagePerfTest` created by mbk1969:
 https://forums.guru3d.com/members/mbk1969.247876/
