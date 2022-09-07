@@ -26,3 +26,6 @@ Method B:
 
 ### Credits
 The `LargePagePerfTest` created by [@mbk1969](https://forums.guru3d.com/members/247876/)
+
+### Discussion
+https://forums.guru3d.com/threads/aio-per-game-tweaks.444492/
