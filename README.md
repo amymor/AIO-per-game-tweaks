@@ -25,5 +25,4 @@ Method B:
 3. Create a full guide in English.
 
 ### Credits
-The `LargePagePerfTest` created by mbk1969:
-https://forums.guru3d.com/members/mbk1969.247876/
+The `LargePagePerfTest` created by [@mbk1969](https://forums.guru3d.com/members/247876/)
