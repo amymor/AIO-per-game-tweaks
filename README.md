@@ -22,7 +22,7 @@ Method B:
 2. Whenever you want to undo the changes, select the game exe and choose default settings.
 
 ## Todo list:
-1. <strike>Add an option for restoring all settings to defaults ( useful when you want uninstall game).</strike>
+1. <strike>Add an option for restoring all settings to defaults ( useful when you want to uninstall game).</strike>
 2. <strike>Add an option for Power saving in Graphics settings (force an app to use integrated GPU)</strike>
 3. Create a full guide in English.
 
