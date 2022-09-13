@@ -1,9 +1,11 @@
 # AIO per game tweaks 🚀
 
-![AIO per game tweaks](https://imgur.com/P6kb8RJ.png)
+![AIO per game tweaks](https://imgur.com/y8mc0rv.png)
 
 A simple tool to apply generic tweaks to your desired games.
 
+## Download latest:
+https://github.com/amymor/AIO-per-game-tweaks/releases/latest
 
 ## How to use
 Method A:
@@ -19,9 +21,9 @@ Method B:
 1. All settings are applied to the registry, which means you can close it when you're done.
 2. Whenever you want to undo the changes, select the game exe and choose default settings.
 
-#Todo list:
-1. Add an option for restoring all settings to defaults ( useful when you want uninstall game).
-2. Add an option for Power saving in Graphics settings (force an app to use integrated GPU)
+## Todo list:
+1. <strike>Add an option for restoring all settings to defaults ( useful when you want uninstall game).</strike>
+2. <strike>Add an option for Power saving in Graphics settings (force an app to use integrated GPU)</strike>
 3. Create a full guide in English.
 
 ### Credits
