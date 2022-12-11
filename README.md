@@ -24,7 +24,6 @@ Method B:
 ## Todo list:
 1. <strike>Add an option for restoring all settings to defaults ( useful when you want to uninstall game).</strike>
 2. <strike>Add an option for Power saving in Graphics settings (force an app to use integrated GPU)</strike>
-3. Create a full guide in English.
 
 ### Credits
 The `LargePagePerfTest` created by [@mbk1969](https://forums.guru3d.com/members/247876/)
