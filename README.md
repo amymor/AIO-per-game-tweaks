@@ -1,4 +1,4 @@
-# AIO per game tweaks 🚀
+# AIO Per-Game Tweaks 🚀
 
 ![AIO Per-Game Tweaks](https://imgur.com/lIBd3U1.png)
 
