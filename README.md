@@ -1,6 +1,6 @@
 # AIO Per-Game Tweaks 🚀
 
-![AIO Per-Game Tweaks](https://imgur.com/lIBd3U1.png)
+![AIO Per-Game Tweaks](https://i.ibb.co/cy5H6ws/Capture.png)
 
 A simple tool to apply generic tweaks to your desired games.
 
@@ -16,7 +16,8 @@ Method A:
 Method B:
 1. Drag the game executable and drop on `AIO Per-Game Tweaks.bat`.
 2. A window will open and you can apply/undo settings in that window.
-![AIO Per-Game Tweaks](https://imgur.com/LBkrGQV.gif)
+![AIO Per-Game Tweaks](https://i.postimg.cc/Wz0RH0wh/GIF-2023-01-01-13-04-11.gif)
+
 ## Notes
 1. All settings are applied to the registry, which means you can close it when you're done.
 2. Whenever you want to undo the changes, select the game exe and choose default settings.
