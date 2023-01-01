@@ -9,14 +9,14 @@ https://github.com/amymor/AIO-per-game-tweaks/releases/latest
 
 ## How to use
 Method A:
-1. Open `AIO Per-Game Tweaks.bat`, an open-file dialog will appear. 
+1. Open `AIO Per-Game Tweaks.exe`, an open-file dialog will appear. 
 2. Choose executable of your desired game, next window will appear.
 3. In the next window you can apply/undo settings.
 
 Method B:
-1. Drag the game executable and drop on `AIO Per-Game Tweaks.bat`.
+1. Drag the game executable and drop on `AIO Per-Game Tweaks.exe`.
 2. A window will open and you can apply/undo settings in that window.
-![AIO Per-Game Tweaks](https://i.postimg.cc/Wz0RH0wh/GIF-2023-01-01-13-04-11.gif)
+https://i.postimg.cc/Wz0RH0wh/GIF-2023-01-01-13-04-11.gif
 
 ## Notes
 1. All settings are applied to the registry, which means you can close it when you're done.
